@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HalalFoods</string>
+    <string name="app_label">HalalFoods</string>
+    <string name="search_hint">Search foods</string>
+    <string name="hello_world">Ini adalah contoh aplikasi android.</string>
+    <string name="action_settings">Settings</string>
+</resources>
